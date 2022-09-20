@@ -1,0 +1,13 @@
+body{
+    background-image: url(/CSS/images/A.P.J\ ABDULKALAM.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    background-color: aqua;
+    position: sticky;
+    top:10px;
+}
+p{
+    font-family: 'Lobster', cursive;
+}

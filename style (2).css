@@ -1,0 +1,8 @@
+*{
+    color: rgb(255, 38, 0);
+    text-align: center;
+}
+h2,h4,h6{
+    color: rgb(0, 255, 85);
+    background-color: blueviolet;
+}

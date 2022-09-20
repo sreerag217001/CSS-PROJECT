@@ -1,0 +1,32 @@
+div{
+    width:250px;
+    height:670px;
+    background-color: blueviolet;
+    float:left;
+    margin:4px;
+    
+}
+#d1{
+
+    background-color: blue;
+
+}
+#d2{
+
+    background-color: aqua;
+}
+#d3{
+
+    background-color: brown;
+
+}
+#d4{
+    background-color: rgb(87, 17, 17);
+
+}
+img{
+    width:250px;
+    height:230px;
+    margin-top: 50px;
+    border-radius: 100px;
+}

@@ -1,0 +1,26 @@
+div{
+    background-color: blue;
+    width: 150px;
+    height:100px;
+    margin:10px;
+}
+#d1{
+    background-color:brown;
+    margin-left: 180px;
+    margin-top: -110px;
+}
+#d2{
+    background-color: blueviolet;
+    margin-left: 350px;
+    margin-top: -110px;
+}
+#d3{
+    background-color: aqua;
+    margin-left: 520px;
+    margin-top: -110px;
+}
+#d4{
+    background-color: black;
+    margin-left:700px;
+    margin-top: -110px;
+}
